@@ -12,3 +12,6 @@ logs
 target
 *.iml
 .idea
+.mvn
+src/main/resources/static/
+src/main/resources/templates/
